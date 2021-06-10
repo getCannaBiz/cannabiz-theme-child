@@ -1,1 +1,1 @@
-# cannabiz-child
+# CannaBiz theme (child)

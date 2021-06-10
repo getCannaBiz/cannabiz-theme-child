@@ -2,7 +2,7 @@
 /**
  * Enqueue the parent theme stylesheet
  *
- * DO NOT DELETE THIS FUNCTION :)
+ * @return void
  */
 function cannabiz_parent_enqueue_styles() {
 	wp_enqueue_style( 'cannabiz-theme', get_template_directory_uri() .'/style.css' );
